@@ -1,0 +1,15 @@
+Go viral in Japan
+
+Just to render a webpage, we send you doom
+if you don’t design for everyone, you aren’t be inclusive
+
+slow because finally Africa was using youtube
+looking to gain market share by being fast
+
+What can we do:
+- CDN bring server to users and caching at the edge (near where it’s going to be), not doing Utah and back; make CDN part of your stack
+- reduce render-blocking latency; normally wait until slowest resource comes back; CSS is style tag in HTML (stored in edge node)
+- Use modern browser features; but don’t reach right away, remember no silver bullet to make your website fast
+- Know your constraints
+- Write code for humans; assembly would be faster but use the for loop instead because you can read and change/keep up as things change
+Do the fundamentals with all your heart
