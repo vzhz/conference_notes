@@ -1,0 +1,35 @@
+Images on mobile
+
+Images kill data plans
+outside of videos, largest source of data on your page
+
+need to optimize your images 
+2G, 3G dominate the planet
+
+burn battery
+uses up CPU, that’s why you’re going from 10% to 0% while cruising insta
+
+know image formats
+example image
+GIF: 256 colors, often bloated
+PNG: ok but bloated, there are two versions
+SVG: for illustrations, logos, maps
+WEBP: newer, owned by google, use it - agressive coding format
+JPG: made for photography, lossy format
+
+exif data: 200 fields of metadata embedded in image, useless for web so remove from photo, takes 14% of image
+
+picture tag: controls the resource presented to a user based on media query
+
+use devtools
+
+lighthouse (audit, part of chrome)
+
+more formats in notes
+
+images create engagement
+imagine instagram without images - whomp!
+
+ave page takes 19 seconds same as Trump meeting Japanese prime minister
+
+shouldn’t be over 1GB
