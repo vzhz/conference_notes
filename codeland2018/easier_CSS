@@ -1,0 +1,65 @@
+CSS WAS hard
+
+no one knows anything, leap frog over the feet-draggers
+“you can leapfrog over all these bros that are tweeting me telling me I’m wrong”
+
+history of layouts
+html - everything is secretly a box, overflow for images
+if don’t do anything, you have flow layout
+tables hold data but that makes tablet for layers
+using html to do styling is evil
+
+Flash
+everything in flash 
+1st step, make stage of certain size, that was your website, do not make your own scrollbars (hard problem)
+we like things that stay in place but that isn’t what the web wants
+
+Flash went away because didn’t show up on google
+
+Semantic markup
+anything you should not have put in CSS - absolute positioning
+
+fix the width
+it isn’t really “of the web” if you assume a fixed width
+
+“Oh it’s responsive but X”
+Now came up with Intrinsic Web Design
+
+Object-fit: cover 
+to not squash with fixed width
+instead crops the image, can pick the center point
+youtube layout land
+
+labs.jensimmons.comCSS WAS hard
+
+no one knows anything, leap frog over the feet-draggers
+“you can leapfrog over all these bros that are tweeting me telling me I’m wrong”
+
+history of layouts
+html - everything is secretly a box, overflow for images
+if don’t do anything, you have flow layout
+tables hold data but that makes tablet for layers
+using html to do styling is evil
+
+Flash
+everything in flash 
+1st step, make stage of certain size, that was your website, do not make your own scrollbars (hard problem)
+we like things that stay in place but that isn’t what the web wants
+
+Flash went away because didn’t show up on google
+
+Semantic markup
+anything you should not have put in CSS - absolute positioning
+
+fix the width
+it isn’t really “of the web” if you assume a fixed width
+
+“Oh it’s responsive but X”
+Now came up with Intrinsic Web Design
+
+Object-fit: cover 
+to not squash with fixed width
+instead crops the image, can pick the center point
+youtube layout land
+
+labs.jensimmons.com
